@@ -1,5 +1,5 @@
 """
-Handle the email *forward* and *reply*. phase. There are 3 actors:
+Handle the email *forward Mail* and *reply To The Mail*. phase. There are 3 actors:
 - contact: who sends emails to alias@sl.co address
 - SL email handler (this script)
 - user personal email: to be protected. Should never leak to contact.
